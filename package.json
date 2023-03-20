@@ -1,0 +1,14 @@
+{
+  "name": "mechin-learning",
+  "version": "1.0.0",
+  "description": "This is first app using machine learning in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanil Surve",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18"
+  }
+}
